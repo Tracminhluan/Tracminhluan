@@ -1,5 +1,14 @@
 ## Hi there 👋
 My name is Trac Minh Luan. I am currently a student at VGU, major in Computer Science. 
+
+## My Projects
+
+Mountain Climber Health & GPS Tracker 
+https://github.com/catmilk7/Mountain-Climber-Health-GPS-Tracker
+
+AI Waste Classification System 
+https://github.com/Tracminhluan/Trash-classification
+
 <!--
 **Tracminhluan/Tracminhluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
